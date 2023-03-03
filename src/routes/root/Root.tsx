@@ -5,10 +5,10 @@ import Nav from '../../components/navbar/Nav';
 
 const Root = () => {
    return (
-      <>
+      <div className={style.container}>
          <Nav/>
          <Outlet />
-      </>
+      </div>
    )
 }
 

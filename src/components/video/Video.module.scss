@@ -1,0 +1,36 @@
+@use "../../scss/mixin.scss" as mixin;
+
+.container {
+   display: flex;
+   flex-direction: column;
+   img {
+      width: 100%;
+      @include mixin.flexCenter;
+      margin-bottom: 1rem;
+      border-radius: 20px;
+   }
+   .box {
+      display: flex;
+      flex-direction: column;
+      width: 100%;
+      h1 {
+         webkit-box-orient: vertical;
+         display: -webkit-box;
+         overflow: hidden;
+         margin-bottom: 1rem;
+         font-weight: 700;
+         font-size : 1.7rem;
+      }
+      h3 {
+         color: var(--color-grey);
+         font-size : 1.3rem;
+         &:first-child {
+         }
+         .date {
+            &::before {
+               content:"•"
+            }
+         }
+      }
+   }
+}

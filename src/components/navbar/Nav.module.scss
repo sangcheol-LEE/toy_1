@@ -1,0 +1,81 @@
+@use "../../scss/mixin.scss" as mixin;
+
+.container{
+   position: relative;
+   width: 100%;
+   min-height: 66px;
+   display: flex;
+   align-items: center;
+   .img {
+      width : 150px;
+   }
+   .form{
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      width:500px;
+      height: 50px;
+      display: flex;
+      border-radius: 40px;
+      padding : 5px 0;
+      padding-left : 10px;
+
+      input {
+         width: 100%;
+         padding-left: 15px;
+         border: none;
+         outline : none;
+         flex-basis: 1;
+         border: 1px solid grey;
+         border-radius: 40px 0 0 40px;
+      }
+      button {
+         padding : 10px 15px;
+         height: 100%;
+         border-radius: 0 10% 10% 0;
+         border: 1px solid grey;
+         border-left: none !important;
+         border-radius: 0 40px 40px 0;
+         background-color: var(--color-green);
+         cursor: pointer;
+         flex-basis: 1;
+         @include mixin.flexCenter;
+      }
+   }
+}
+
+@media all and (min-width:320px) {
+   .container{
+      .img {
+         width : 120px;
+      }
+      .form {
+         width:300px;
+         input {
+            width: 100%;
+         }
+      }
+   }
+ }
+
+ @media all and (min-width:768px) {
+   .container{
+      .img {
+         width : 135px;
+      }
+      .form {
+         width:400px;
+      }
+   }
+ }
+ @media all and (min-width:1024px) {
+   .container{
+      .img {
+         width : 150px;
+      }
+      .form {
+         width:500px;
+      }
+   }
+ }

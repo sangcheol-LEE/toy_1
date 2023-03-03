@@ -33,6 +33,10 @@ body {
 	line-height: 1;
    font-family: 'Open Sans', sans-serif;
 }
+button {
+	border: none;
+	background-color: transparent;
+}
 ol, ul {
 	list-style: none;
 }
@@ -53,6 +57,7 @@ table {
    --color-background : #fff;
    --color-green : #E3DA34;
    --color-yellow: #fff7d1;
+	--color-grey: #676666;
 
    --weight-bold: 700;
    --weight-semi-bold: 600;
