@@ -1,6 +1,7 @@
 ## 기술 스택
 * Type Script
 * React
+* Redux-toolkit
 * React-query
 * poss-css[sass]
 

@@ -1,856 +1,862 @@
 {
-   "kind": "youtube#searchListResponse",
-   "etag": "0g4crRIv57sUjTHRQ0jcr6NzmKI",
-   "nextPageToken": "CBkQAA",
-   "regionCode": "KR",
-   "pageInfo": {
-       "totalResults": 1000000,
-       "resultsPerPage": 25
-   },
-   "items": [
-       {
-           "kind": "youtube#searchResult",
-           "etag": "QsxKKV6Yc_JAybLTnFBJdleABvI",
-           "id": {
-               "kind": "youtube#video",
-               "videoId": "gdZLi9oWNZg"
-           },
-           "snippet": {
-               "publishedAt": "2020-08-21T03:58:10Z",
-               "channelId": "UC3IZKseVpdzPSBaWxBxundA",
-               "title": "BTS (방탄소년단) &#39;Dynamite&#39; Official MV",
-               "description": "BTS (방탄소년단) 'Dynamite' Official MV Credits: Director: Yong Seok Choi (Lumpens) Assistant Director: Jihye Yoon (Lumpens) ...",
-               "thumbnails": {
-                   "default": {
-                       "url": "https://i.ytimg.com/vi/gdZLi9oWNZg/default.jpg",
-                       "width": 120,
-                       "height": 90
-                   },
-                   "medium": {
-                       "url": "https://i.ytimg.com/vi/gdZLi9oWNZg/mqdefault.jpg",
-                       "width": 320,
-                       "height": 180
-                   },
-                   "high": {
-                       "url": "https://i.ytimg.com/vi/gdZLi9oWNZg/hqdefault.jpg",
-                       "width": 480,
-                       "height": 360
-                   }
-               },
-               "channelTitle": "HYBE LABELS",
-               "liveBroadcastContent": "none",
-               "publishTime": "2020-08-21T03:58:10Z"
-           }
-       },
-       {
-           "kind": "youtube#searchResult",
-           "etag": "7Iwi_COMdqIB2gLiaDvC0wMbtf0",
-           "id": {
-               "kind": "youtube#video",
-               "videoId": "WwjcQGui6bI"
-           },
-           "snippet": {
-               "publishedAt": "2023-03-02T13:00:09Z",
-               "channelId": "UCLkAepWjdylmXSltofFvsYQ",
-               "title": "[슈취타] EP.6 SUGA with 이성민",
-               "description": "슈가와취하는타임 #슈취타 #SUGA #슈가 #이성민 Connect with BTS: https://ibighit.com/bts http://twitter.com/BTS_bighit ...",
-               "thumbnails": {
-                   "default": {
-                       "url": "https://i.ytimg.com/vi/WwjcQGui6bI/default.jpg",
-                       "width": 120,
-                       "height": 90
-                   },
-                   "medium": {
-                       "url": "https://i.ytimg.com/vi/WwjcQGui6bI/mqdefault.jpg",
-                       "width": 320,
-                       "height": 180
-                   },
-                   "high": {
-                       "url": "https://i.ytimg.com/vi/WwjcQGui6bI/hqdefault.jpg",
-                       "width": 480,
-                       "height": 360
-                   }
-               },
-               "channelTitle": "BANGTANTV",
-               "liveBroadcastContent": "none",
-               "publishTime": "2023-03-02T13:00:09Z"
-           }
-       },
-       {
-           "kind": "youtube#searchResult",
-           "etag": "WYFdMOI-eTOcI21_u1AAIXSc1tc",
-           "id": {
-               "kind": "youtube#video",
-               "videoId": "XsX3ATc3FbA"
-           },
-           "snippet": {
-               "publishedAt": "2019-04-12T09:00:02Z",
-               "channelId": "UC3IZKseVpdzPSBaWxBxundA",
-               "title": "BTS (방탄소년단) &#39;작은 것들을 위한 시 (Boy With Luv) (feat. Halsey)&#39; Official MV",
-               "description": "BTS (방탄소년단) '작은 것들을 위한 시 (Boy With Luv) (Feat. Halsey)' Official MV Credits: Director : YongSeok Choi (Lumpens) ...",
-               "thumbnails": {
-                   "default": {
-                       "url": "https://i.ytimg.com/vi/XsX3ATc3FbA/default.jpg",
-                       "width": 120,
-                       "height": 90
-                   },
-                   "medium": {
-                       "url": "https://i.ytimg.com/vi/XsX3ATc3FbA/mqdefault.jpg",
-                       "width": 320,
-                       "height": 180
-                   },
-                   "high": {
-                       "url": "https://i.ytimg.com/vi/XsX3ATc3FbA/hqdefault.jpg",
-                       "width": 480,
-                       "height": 360
-                   }
-               },
-               "channelTitle": "HYBE LABELS",
-               "liveBroadcastContent": "none",
-               "publishTime": "2019-04-12T09:00:02Z"
-           }
-       },
-       {
-           "kind": "youtube#searchResult",
-           "etag": "y2VbtHS45rXELa0bi6vYiW94M8A",
-           "id": {
-               "kind": "youtube#video",
-               "videoId": "kTlv5_Bs8aw"
-           },
-           "snippet": {
-               "publishedAt": "2017-11-24T09:00:02Z",
-               "channelId": "UC3IZKseVpdzPSBaWxBxundA",
-               "title": "BTS (방탄소년단) &#39;MIC Drop (Steve Aoki Remix)&#39; Official MV",
-               "description": "BTS (방탄소년단) 'MIC Drop (Steve Aoki Remix)' Official MV Credits: Music Video by GDW, Directed by Woogie Kim Producer: ...",
-               "thumbnails": {
-                   "default": {
-                       "url": "https://i.ytimg.com/vi/kTlv5_Bs8aw/default.jpg",
-                       "width": 120,
-                       "height": 90
-                   },
-                   "medium": {
-                       "url": "https://i.ytimg.com/vi/kTlv5_Bs8aw/mqdefault.jpg",
-                       "width": 320,
-                       "height": 180
-                   },
-                   "high": {
-                       "url": "https://i.ytimg.com/vi/kTlv5_Bs8aw/hqdefault.jpg",
-                       "width": 480,
-                       "height": 360
-                   }
-               },
-               "channelTitle": "HYBE LABELS",
-               "liveBroadcastContent": "none",
-               "publishTime": "2017-11-24T09:00:02Z"
-           }
-       },
-       {
-           "kind": "youtube#searchResult",
-           "etag": "dchhbC0afnkapomGdIbtT7bE9MM",
-           "id": {
-               "kind": "youtube#video",
-               "videoId": "WMweEpGlu_U"
-           },
-           "snippet": {
-               "publishedAt": "2021-05-21T03:46:13Z",
-               "channelId": "UC3IZKseVpdzPSBaWxBxundA",
-               "title": "BTS (방탄소년단) &#39;Butter&#39; Official MV",
-               "description": "BTS (방탄소년단) 'Butter' Official MV Credits: Director: Yong Seok Choi (Lumpens) 1st AD: Jihye Yoon (Lumpens) 2nd AD: Ran ...",
-               "thumbnails": {
-                   "default": {
-                       "url": "https://i.ytimg.com/vi/WMweEpGlu_U/default.jpg",
-                       "width": 120,
-                       "height": 90
-                   },
-                   "medium": {
-                       "url": "https://i.ytimg.com/vi/WMweEpGlu_U/mqdefault.jpg",
-                       "width": 320,
-                       "height": 180
-                   },
-                   "high": {
-                       "url": "https://i.ytimg.com/vi/WMweEpGlu_U/hqdefault.jpg",
-                       "width": 480,
-                       "height": 360
-                   }
-               },
-               "channelTitle": "HYBE LABELS",
-               "liveBroadcastContent": "none",
-               "publishTime": "2021-05-21T03:46:13Z"
-           }
-       },
-       {
-           "kind": "youtube#searchResult",
-           "etag": "wX-4oAXp8UN2R_uWiTANSnu1qpo",
-           "id": {
-               "kind": "youtube#video",
-               "videoId": "CuklIb9d3fI"
-           },
-           "snippet": {
-               "publishedAt": "2021-07-09T03:59:12Z",
-               "channelId": "UC3IZKseVpdzPSBaWxBxundA",
-               "title": "BTS (방탄소년단) &#39;Permission to Dance&#39; Official MV",
-               "description": "BTS (방탄소년단) 'Permission to Dance' Official MV Credits: Director: Yong Seok Choi (Lumpens) & Woogie Kim (MOTHER) ...",
-               "thumbnails": {
-                   "default": {
-                       "url": "https://i.ytimg.com/vi/CuklIb9d3fI/default.jpg",
-                       "width": 120,
-                       "height": 90
-                   },
-                   "medium": {
-                       "url": "https://i.ytimg.com/vi/CuklIb9d3fI/mqdefault.jpg",
-                       "width": 320,
-                       "height": 180
-                   },
-                   "high": {
-                       "url": "https://i.ytimg.com/vi/CuklIb9d3fI/hqdefault.jpg",
-                       "width": 480,
-                       "height": 360
-                   }
-               },
-               "channelTitle": "HYBE LABELS",
-               "liveBroadcastContent": "none",
-               "publishTime": "2021-07-09T03:59:12Z"
-           }
-       },
-       {
-           "kind": "youtube#searchResult",
-           "etag": "lk31jl0CXGGl4Rt1OQE2maaiRzQ",
-           "id": {
-               "kind": "youtube#video",
-               "videoId": "0lapF4DQPKQ"
-           },
-           "snippet": {
-               "publishedAt": "2020-03-04T15:00:02Z",
-               "channelId": "UC3IZKseVpdzPSBaWxBxundA",
-               "title": "BTS (방탄소년단) &#39;Black Swan&#39; Official MV",
-               "description": "BTS (방탄소년단) 'Black Swan' Official MV Credits: Director : YongSeok Choi (Lumpens) Co-Director : Guzza (Lumpens) Assistant ...",
-               "thumbnails": {
-                   "default": {
-                       "url": "https://i.ytimg.com/vi/0lapF4DQPKQ/default.jpg",
-                       "width": 120,
-                       "height": 90
-                   },
-                   "medium": {
-                       "url": "https://i.ytimg.com/vi/0lapF4DQPKQ/mqdefault.jpg",
-                       "width": 320,
-                       "height": 180
-                   },
-                   "high": {
-                       "url": "https://i.ytimg.com/vi/0lapF4DQPKQ/hqdefault.jpg",
-                       "width": 480,
-                       "height": 360
-                   }
-               },
-               "channelTitle": "HYBE LABELS",
-               "liveBroadcastContent": "none",
-               "publishTime": "2020-03-04T15:00:02Z"
-           }
-       },
-       {
-           "kind": "youtube#searchResult",
-           "etag": "3YJIgHBXcyJE8FZWzObDUMZn8QE",
-           "id": {
-               "kind": "youtube#video",
-               "videoId": "cXCBiF67jLM"
-           },
-           "snippet": {
-               "publishedAt": "2023-01-13T05:00:07Z",
-               "channelId": "UCg8ZzloDPTrOiGztK0C9txQ",
-               "title": "TAEYANG - &#39;VIBE (feat. Jimin of BTS)&#39; M/V",
-               "description": "https://taeyang.lnk.to/VIBE TAEYANG - 'VIBE (feat. Jimin of BTS)' M/V 말론 표현할 수 없지만 Girl, You gotta know you got that vibe ...",
-               "thumbnails": {
-                   "default": {
-                       "url": "https://i.ytimg.com/vi/cXCBiF67jLM/default.jpg",
-                       "width": 120,
-                       "height": 90
-                   },
-                   "medium": {
-                       "url": "https://i.ytimg.com/vi/cXCBiF67jLM/mqdefault.jpg",
-                       "width": 320,
-                       "height": 180
-                   },
-                   "high": {
-                       "url": "https://i.ytimg.com/vi/cXCBiF67jLM/hqdefault.jpg",
-                       "width": 480,
-                       "height": 360
-                   }
-               },
-               "channelTitle": "THEBLACKLABEL",
-               "liveBroadcastContent": "none",
-               "publishTime": "2023-01-13T05:00:07Z"
-           }
-       },
-       {
-           "kind": "youtube#searchResult",
-           "etag": "igFl6_Q4AqcIWk_W4Xl8X2djX80",
-           "id": {
-               "kind": "youtube#video",
-               "videoId": "MBdVXkSdhwU"
-           },
-           "snippet": {
-               "publishedAt": "2017-09-18T09:00:02Z",
-               "channelId": "UC3IZKseVpdzPSBaWxBxundA",
-               "title": "BTS (방탄소년단) &#39;DNA&#39; Official MV",
-               "description": "BTS (방탄소년단) 'DNA' Official MV Credits: Director : YongSeok Choi (Lumpens) Assistant Director : WonJu Lee (Lumpens) ...",
-               "thumbnails": {
-                   "default": {
-                       "url": "https://i.ytimg.com/vi/MBdVXkSdhwU/default.jpg",
-                       "width": 120,
-                       "height": 90
-                   },
-                   "medium": {
-                       "url": "https://i.ytimg.com/vi/MBdVXkSdhwU/mqdefault.jpg",
-                       "width": 320,
-                       "height": 180
-                   },
-                   "high": {
-                       "url": "https://i.ytimg.com/vi/MBdVXkSdhwU/hqdefault.jpg",
-                       "width": 480,
-                       "height": 360
-                   }
-               },
-               "channelTitle": "HYBE LABELS",
-               "liveBroadcastContent": "none",
-               "publishTime": "2017-09-18T09:00:02Z"
-           }
-       },
-       {
-           "kind": "youtube#searchResult",
-           "etag": "PL885OvOZtULqCJdLYdECShJOSU",
-           "id": {
-               "kind": "youtube#channel",
-               "channelId": "UCLkAepWjdylmXSltofFvsYQ"
-           },
-           "snippet": {
-               "publishedAt": "2012-12-17T03:20:38Z",
-               "channelId": "UCLkAepWjdylmXSltofFvsYQ",
-               "title": "BANGTANTV",
-               "description": "This is the official YouTube channel of BTS. 방탄소년단 공식 유튜브 채널 입니다.",
-               "thumbnails": {
-                   "default": {
-                       "url": "https://yt3.ggpht.com/NDWZM_aZQZJ81KRMyctZ5WYJbMIeDXLXBbAYfudK9idNpn7jIiamnj4-_3XIvCvKr1fEU7551A=s88-c-k-c0xffffffff-no-rj-mo"
-                   },
-                   "medium": {
-                       "url": "https://yt3.ggpht.com/NDWZM_aZQZJ81KRMyctZ5WYJbMIeDXLXBbAYfudK9idNpn7jIiamnj4-_3XIvCvKr1fEU7551A=s240-c-k-c0xffffffff-no-rj-mo"
-                   },
-                   "high": {
-                       "url": "https://yt3.ggpht.com/NDWZM_aZQZJ81KRMyctZ5WYJbMIeDXLXBbAYfudK9idNpn7jIiamnj4-_3XIvCvKr1fEU7551A=s800-c-k-c0xffffffff-no-rj-mo"
-                   }
-               },
-               "channelTitle": "BANGTANTV",
-               "liveBroadcastContent": "none",
-               "publishTime": "2012-12-17T03:20:38Z"
-           }
-       },
-       {
-           "kind": "youtube#searchResult",
-           "etag": "WAAMQrhZM4XHKf4Zp44k9XJijYY",
-           "id": {
-               "kind": "youtube#video",
-               "videoId": "m9QnJgc9ZJQ"
-           },
-           "snippet": {
-               "publishedAt": "2023-03-02T10:37:08Z",
-               "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-               "title": "ShowBiz Minute: Prince Harry, Joni Mitchell, BTS",
-               "description": "(2 Mar 2023) Harry, Meghan asked to leave UK home in further royal rift; Joni Mitchell receives Library of Congress Gershwin ...",
-               "thumbnails": {
-                   "default": {
-                       "url": "https://i.ytimg.com/vi/m9QnJgc9ZJQ/default.jpg",
-                       "width": 120,
-                       "height": 90
-                   },
-                   "medium": {
-                       "url": "https://i.ytimg.com/vi/m9QnJgc9ZJQ/mqdefault.jpg",
-                       "width": 320,
-                       "height": 180
-                   },
-                   "high": {
-                       "url": "https://i.ytimg.com/vi/m9QnJgc9ZJQ/hqdefault.jpg",
-                       "width": 480,
-                       "height": 360
-                   }
-               },
-               "channelTitle": "Associated Press",
-               "liveBroadcastContent": "none",
-               "publishTime": "2023-03-02T10:37:08Z"
-           }
-       },
-       {
-           "kind": "youtube#searchResult",
-           "etag": "lA5B81Z90Uf_mKe-nYRSg_vLby4",
-           "id": {
-               "kind": "youtube#video",
-               "videoId": "MzF0htyn6OE"
-           },
-           "snippet": {
-               "publishedAt": "2023-02-26T14:40:33Z",
-               "channelId": "UCdaOQD569stbML_plw5QpgA",
-               "title": "Jimin looking so smol between soobin and beomgyu 😭🤏",
-               "description": "",
-               "thumbnails": {
-                   "default": {
-                       "url": "https://i.ytimg.com/vi/MzF0htyn6OE/default.jpg",
-                       "width": 120,
-                       "height": 90
-                   },
-                   "medium": {
-                       "url": "https://i.ytimg.com/vi/MzF0htyn6OE/mqdefault.jpg",
-                       "width": 320,
-                       "height": 180
-                   },
-                   "high": {
-                       "url": "https://i.ytimg.com/vi/MzF0htyn6OE/hqdefault.jpg",
-                       "width": 480,
-                       "height": 360
-                   }
-               },
-               "channelTitle": "Butter BTS k-pop",
-               "liveBroadcastContent": "none",
-               "publishTime": "2023-02-26T14:40:33Z"
-           }
-       },
-       {
-           "kind": "youtube#searchResult",
-           "etag": "I8DBdlLS_hF_8jnxjxPqtPejW8s",
-           "id": {
-               "kind": "youtube#video",
-               "videoId": "kXpOEzNZ8hQ"
-           },
-           "snippet": {
-               "publishedAt": "2022-06-10T03:59:38Z",
-               "channelId": "UC3IZKseVpdzPSBaWxBxundA",
-               "title": "BTS (방탄소년단) &#39;Yet To Come (The Most Beautiful Moment)&#39; Official MV",
-               "description": "BTS (방탄소년단) 'Yet To Come (The Most Beautiful Moment)' Official MV Credits: Director: Yong Seok Choi (Lumpens) 1st AD: ...",
-               "thumbnails": {
-                   "default": {
-                       "url": "https://i.ytimg.com/vi/kXpOEzNZ8hQ/default.jpg",
-                       "width": 120,
-                       "height": 90
-                   },
-                   "medium": {
-                       "url": "https://i.ytimg.com/vi/kXpOEzNZ8hQ/mqdefault.jpg",
-                       "width": 320,
-                       "height": 180
-                   },
-                   "high": {
-                       "url": "https://i.ytimg.com/vi/kXpOEzNZ8hQ/hqdefault.jpg",
-                       "width": 480,
-                       "height": 360
-                   }
-               },
-               "channelTitle": "HYBE LABELS",
-               "liveBroadcastContent": "none",
-               "publishTime": "2022-06-10T03:59:38Z"
-           }
-       },
-       {
-           "kind": "youtube#searchResult",
-           "etag": "OGLQEPI0drFpbjl1etzpptvfVKI",
-           "id": {
-               "kind": "youtube#video",
-               "videoId": "LjGzTSodJdE"
-           },
-           "snippet": {
-               "publishedAt": "2023-02-14T14:00:02Z",
-               "channelId": "UCLkAepWjdylmXSltofFvsYQ",
-               "title": "Run BTS! 2023 Special Episode - Mini Field Day Part 1",
-               "description": "RunBTS #달려라방탄 #달방 Connect with BTS: https://ibighit.com/bts http://twitter.com/BTS_bighit http://twitter.com/BTS_twt ...",
-               "thumbnails": {
-                   "default": {
-                       "url": "https://i.ytimg.com/vi/LjGzTSodJdE/default.jpg",
-                       "width": 120,
-                       "height": 90
-                   },
-                   "medium": {
-                       "url": "https://i.ytimg.com/vi/LjGzTSodJdE/mqdefault.jpg",
-                       "width": 320,
-                       "height": 180
-                   },
-                   "high": {
-                       "url": "https://i.ytimg.com/vi/LjGzTSodJdE/hqdefault.jpg",
-                       "width": 480,
-                       "height": 360
-                   }
-               },
-               "channelTitle": "BANGTANTV",
-               "liveBroadcastContent": "none",
-               "publishTime": "2023-02-14T14:00:02Z"
-           }
-       },
-       {
-           "kind": "youtube#searchResult",
-           "etag": "gx-ssvlLWK9m94vdIklZau9yCJ8",
-           "id": {
-               "kind": "youtube#video",
-               "videoId": "MqpMy8XI_6s"
-           },
-           "snippet": {
-               "publishedAt": "2022-09-01T11:54:42Z",
-               "channelId": "UCnqkClmpkbi2xRjttuYPvWw",
-               "title": "BTS/방탄소년단 &#39;Blood Sweat &amp; Tears + Fake Love&#39; Live PTD On Stage Las Vegas D-4",
-               "description": "",
-               "thumbnails": {
-                   "default": {
-                       "url": "https://i.ytimg.com/vi/MqpMy8XI_6s/default.jpg",
-                       "width": 120,
-                       "height": 90
-                   },
-                   "medium": {
-                       "url": "https://i.ytimg.com/vi/MqpMy8XI_6s/mqdefault.jpg",
-                       "width": 320,
-                       "height": 180
-                   },
-                   "high": {
-                       "url": "https://i.ytimg.com/vi/MqpMy8XI_6s/hqdefault.jpg",
-                       "width": 480,
-                       "height": 360
-                   }
-               },
-               "channelTitle": "BTS LIVE 2",
-               "liveBroadcastContent": "none",
-               "publishTime": "2022-09-01T11:54:42Z"
-           }
-       },
-       {
-           "kind": "youtube#searchResult",
-           "etag": "Yi3ti1k8PWW3daCig5mvkCavhow",
-           "id": {
-               "kind": "youtube#video",
-               "videoId": "hmE9f-TEutc"
-           },
-           "snippet": {
-               "publishedAt": "2016-10-09T15:00:02Z",
-               "channelId": "UC3IZKseVpdzPSBaWxBxundA",
-               "title": "BTS (방탄소년단) &#39;피 땀 눈물 (Blood Sweat &amp; Tears)&#39; Official MV",
-               "description": "BTS (방탄소년단) '피 땀 눈물 (Blood Sweat & Tears)' Official MV Music video credits: Director: YongSeok Choi (Lumpens) ...",
-               "thumbnails": {
-                   "default": {
-                       "url": "https://i.ytimg.com/vi/hmE9f-TEutc/default.jpg",
-                       "width": 120,
-                       "height": 90
-                   },
-                   "medium": {
-                       "url": "https://i.ytimg.com/vi/hmE9f-TEutc/mqdefault.jpg",
-                       "width": 320,
-                       "height": 180
-                   },
-                   "high": {
-                       "url": "https://i.ytimg.com/vi/hmE9f-TEutc/hqdefault.jpg",
-                       "width": 480,
-                       "height": 360
-                   }
-               },
-               "channelTitle": "HYBE LABELS",
-               "liveBroadcastContent": "none",
-               "publishTime": "2016-10-09T15:00:02Z"
-           }
-       },
-       {
-           "kind": "youtube#searchResult",
-           "etag": "XU6ShmlsIsaZudNzmowDsZE_WX0",
-           "id": {
-               "kind": "youtube#video",
-               "videoId": "-5q5mZbe3V8"
-           },
-           "snippet": {
-               "publishedAt": "2020-11-20T04:58:11Z",
-               "channelId": "UC3IZKseVpdzPSBaWxBxundA",
-               "title": "BTS (방탄소년단) &#39;Life Goes On&#39; Official MV",
-               "description": "BTS (방탄소년단) 'Life Goes On' Official MV Credits: Director: Jeon Jung Kook Assistant Director: Yong Seok Choi, Jihye Yoon ...",
-               "thumbnails": {
-                   "default": {
-                       "url": "https://i.ytimg.com/vi/-5q5mZbe3V8/default.jpg",
-                       "width": 120,
-                       "height": 90
-                   },
-                   "medium": {
-                       "url": "https://i.ytimg.com/vi/-5q5mZbe3V8/mqdefault.jpg",
-                       "width": 320,
-                       "height": 180
-                   },
-                   "high": {
-                       "url": "https://i.ytimg.com/vi/-5q5mZbe3V8/hqdefault.jpg",
-                       "width": 480,
-                       "height": 360
-                   }
-               },
-               "channelTitle": "HYBE LABELS",
-               "liveBroadcastContent": "none",
-               "publishTime": "2020-11-20T04:58:11Z"
-           }
-       },
-       {
-           "kind": "youtube#searchResult",
-           "etag": "8WXib5FgBHOIQSiHQOWOY98zdlI",
-           "id": {
-               "kind": "youtube#video",
-               "videoId": "HbkBVxU5K5A"
-           },
-           "snippet": {
-               "publishedAt": "2022-04-23T01:00:03Z",
-               "channelId": "UCLkAepWjdylmXSltofFvsYQ",
-               "title": "BTS (방탄소년단) &#39;Butter&#39; @ The 64th GRAMMY Awards",
-               "description": "Connect with BTS: https://ibighit.com/bts http://twitter.com/BTS_bighit http://twitter.com/BTS_twt ...",
-               "thumbnails": {
-                   "default": {
-                       "url": "https://i.ytimg.com/vi/HbkBVxU5K5A/default.jpg",
-                       "width": 120,
-                       "height": 90
-                   },
-                   "medium": {
-                       "url": "https://i.ytimg.com/vi/HbkBVxU5K5A/mqdefault.jpg",
-                       "width": 320,
-                       "height": 180
-                   },
-                   "high": {
-                       "url": "https://i.ytimg.com/vi/HbkBVxU5K5A/hqdefault.jpg",
-                       "width": 480,
-                       "height": 360
-                   }
-               },
-               "channelTitle": "BANGTANTV",
-               "liveBroadcastContent": "none",
-               "publishTime": "2022-04-23T01:00:03Z"
-           }
-       },
-       {
-           "kind": "youtube#searchResult",
-           "etag": "SgxmYR5VmSDPXvID8rgeK5GNEOE",
-           "id": {
-               "kind": "youtube#video",
-               "videoId": "Cb70gcTVvYI"
-           },
-           "snippet": {
-               "publishedAt": "2022-10-16T04:00:03Z",
-               "channelId": "UCLkAepWjdylmXSltofFvsYQ",
-               "title": "BTS (방탄소년단) &#39;달려라 방탄 (Run BTS)&#39; @ BTS &quot;Yet To Come&quot; in BUSAN",
-               "description": "BTS #방탄소년단 #달려라방탄 #RunBTS #YetToComeInBUSAN Connect with BTS: https://ibighit.com/bts ...",
-               "thumbnails": {
-                   "default": {
-                       "url": "https://i.ytimg.com/vi/Cb70gcTVvYI/default.jpg",
-                       "width": 120,
-                       "height": 90
-                   },
-                   "medium": {
-                       "url": "https://i.ytimg.com/vi/Cb70gcTVvYI/mqdefault.jpg",
-                       "width": 320,
-                       "height": 180
-                   },
-                   "high": {
-                       "url": "https://i.ytimg.com/vi/Cb70gcTVvYI/hqdefault.jpg",
-                       "width": 480,
-                       "height": 360
-                   }
-               },
-               "channelTitle": "BANGTANTV",
-               "liveBroadcastContent": "none",
-               "publishTime": "2022-10-16T04:00:03Z"
-           }
-       },
-       {
-           "kind": "youtube#searchResult",
-           "etag": "t4W6rLxwp_gMN2mXi_Pk_q7c6UU",
-           "id": {
-               "kind": "youtube#video",
-               "videoId": "XigGbzte8Wg"
-           },
-           "snippet": {
-               "publishedAt": "2022-10-16T12:00:02Z",
-               "channelId": "UCLkAepWjdylmXSltofFvsYQ",
-               "title": "[BANGTAN BOMB] ‘MIC Drop’ &amp; ‘달려라 방탄 (Run BTS)’ Stage CAM (BTS focus) @ BTS “Yet To Come” in BUSAN",
-               "description": "BANGTANBOMB #방탄밤 #BTS #방탄소년단 Connect with BTS: https://ibighit.com/bts http://twitter.com/BTS_bighit ...",
-               "thumbnails": {
-                   "default": {
-                       "url": "https://i.ytimg.com/vi/XigGbzte8Wg/default.jpg",
-                       "width": 120,
-                       "height": 90
-                   },
-                   "medium": {
-                       "url": "https://i.ytimg.com/vi/XigGbzte8Wg/mqdefault.jpg",
-                       "width": 320,
-                       "height": 180
-                   },
-                   "high": {
-                       "url": "https://i.ytimg.com/vi/XigGbzte8Wg/hqdefault.jpg",
-                       "width": 480,
-                       "height": 360
-                   }
-               },
-               "channelTitle": "BANGTANTV",
-               "liveBroadcastContent": "none",
-               "publishTime": "2022-10-16T12:00:02Z"
-           }
-       },
-       {
-           "kind": "youtube#searchResult",
-           "etag": "l4Vl7z9HnJTVjrAdXkdK8PTRySg",
-           "id": {
-               "kind": "youtube#video",
-               "videoId": "ONXMysQoTrQ"
-           },
-           "snippet": {
-               "publishedAt": "2023-03-01T17:01:24Z",
-               "channelId": "UCbC0TgKs4soGL_KMTo4L0gw",
-               "title": "Jimin draw ✍️ her an eyebrow 👁️😂 #bts #jimin #namjoon",
-               "description": "",
-               "thumbnails": {
-                   "default": {
-                       "url": "https://i.ytimg.com/vi/ONXMysQoTrQ/default.jpg",
-                       "width": 120,
-                       "height": 90
-                   },
-                   "medium": {
-                       "url": "https://i.ytimg.com/vi/ONXMysQoTrQ/mqdefault.jpg",
-                       "width": 320,
-                       "height": 180
-                   },
-                   "high": {
-                       "url": "https://i.ytimg.com/vi/ONXMysQoTrQ/hqdefault.jpg",
-                       "width": 480,
-                       "height": 360
-                   }
-               },
-               "channelTitle": "dumpling.universe",
-               "liveBroadcastContent": "none",
-               "publishTime": "2023-03-01T17:01:24Z"
-           }
-       },
-       {
-           "kind": "youtube#searchResult",
-           "etag": "eh3WnBfsuYLqoZ3XMrcgJ4A6kmk",
-           "id": {
-               "kind": "youtube#video",
-               "videoId": "RRhjdYsNwAk"
-           },
-           "snippet": {
-               "publishedAt": "2021-06-10T14:58:29Z",
-               "channelId": "UCLkAepWjdylmXSltofFvsYQ",
-               "title": "[2021 FESTA] BTS (방탄소년단) BTS ROOM LIVE #2021BTSFESTA",
-               "description": "Connect with BTS: https://ibighit.com/bts http://twitter.com/BTS_bighit http://twitter.com/BTS_twt ...",
-               "thumbnails": {
-                   "default": {
-                       "url": "https://i.ytimg.com/vi/RRhjdYsNwAk/default.jpg",
-                       "width": 120,
-                       "height": 90
-                   },
-                   "medium": {
-                       "url": "https://i.ytimg.com/vi/RRhjdYsNwAk/mqdefault.jpg",
-                       "width": 320,
-                       "height": 180
-                   },
-                   "high": {
-                       "url": "https://i.ytimg.com/vi/RRhjdYsNwAk/hqdefault.jpg",
-                       "width": 480,
-                       "height": 360
-                   }
-               },
-               "channelTitle": "BANGTANTV",
-               "liveBroadcastContent": "none",
-               "publishTime": "2021-06-10T14:58:29Z"
-           }
-       },
-       {
-           "kind": "youtube#searchResult",
-           "etag": "7y2yyOCfiBJi7CquuGOuhKcAbWc",
-           "id": {
-               "kind": "youtube#video",
-               "videoId": "GZjt_sA2eso"
-           },
-           "snippet": {
-               "publishedAt": "2016-05-15T13:00:03Z",
-               "channelId": "UC3IZKseVpdzPSBaWxBxundA",
-               "title": "BTS (방탄소년단) &#39;Save ME&#39; Official MV",
-               "description": "BTS (방탄소년단) 'Save ME' Official MV.",
-               "thumbnails": {
-                   "default": {
-                       "url": "https://i.ytimg.com/vi/GZjt_sA2eso/default.jpg",
-                       "width": 120,
-                       "height": 90
-                   },
-                   "medium": {
-                       "url": "https://i.ytimg.com/vi/GZjt_sA2eso/mqdefault.jpg",
-                       "width": 320,
-                       "height": 180
-                   },
-                   "high": {
-                       "url": "https://i.ytimg.com/vi/GZjt_sA2eso/hqdefault.jpg",
-                       "width": 480,
-                       "height": 360
-                   }
-               },
-               "channelTitle": "HYBE LABELS",
-               "liveBroadcastContent": "none",
-               "publishTime": "2016-05-15T13:00:03Z"
-           }
-       },
-       {
-           "kind": "youtube#searchResult",
-           "etag": "QKuLXRzJGwhpp4T17lpWTVYE4F0",
-           "id": {
-               "kind": "youtube#video",
-               "videoId": "pBuZEGYXA6E"
-           },
-           "snippet": {
-               "publishedAt": "2018-08-24T09:00:03Z",
-               "channelId": "UC3IZKseVpdzPSBaWxBxundA",
-               "title": "BTS (방탄소년단) &#39;IDOL&#39; Official MV",
-               "description": "BTS (방탄소년단) 'IDOL' Official MV Director : YongSeok Choi (Lumpens) Assistant Director : Guzza, MinJe Jeong, HyeJeong Park ...",
-               "thumbnails": {
-                   "default": {
-                       "url": "https://i.ytimg.com/vi/pBuZEGYXA6E/default.jpg",
-                       "width": 120,
-                       "height": 90
-                   },
-                   "medium": {
-                       "url": "https://i.ytimg.com/vi/pBuZEGYXA6E/mqdefault.jpg",
-                       "width": 320,
-                       "height": 180
-                   },
-                   "high": {
-                       "url": "https://i.ytimg.com/vi/pBuZEGYXA6E/hqdefault.jpg",
-                       "width": 480,
-                       "height": 360
-                   }
-               },
-               "channelTitle": "HYBE LABELS",
-               "liveBroadcastContent": "none",
-               "publishTime": "2018-08-24T09:00:03Z"
-           }
-       },
-       {
-           "kind": "youtube#searchResult",
-           "etag": "8vC-XUwOjCccKSnHZZFiPTwBVKs",
-           "id": {
-               "kind": "youtube#video",
-               "videoId": "DbXMjAYSa68"
-           },
-           "snippet": {
-               "publishedAt": "2021-05-30T10:00:01Z",
-               "channelId": "UCLkAepWjdylmXSltofFvsYQ",
-               "title": "[CHOREOGRAPHY] BTS (방탄소년단) &#39;Butter&#39; Special Performance Video",
-               "description": "Artist: RM, Jin, SUGA, j-hope, Jimin, V, Jung Kook Production Artist Contents Studio (HYBE 360) Director: Jang Jeong In Assistant ...",
-               "thumbnails": {
-                   "default": {
-                       "url": "https://i.ytimg.com/vi/DbXMjAYSa68/default.jpg",
-                       "width": 120,
-                       "height": 90
-                   },
-                   "medium": {
-                       "url": "https://i.ytimg.com/vi/DbXMjAYSa68/mqdefault.jpg",
-                       "width": 320,
-                       "height": 180
-                   },
-                   "high": {
-                       "url": "https://i.ytimg.com/vi/DbXMjAYSa68/hqdefault.jpg",
-                       "width": 480,
-                       "height": 360
-                   }
-               },
-               "channelTitle": "BANGTANTV",
-               "liveBroadcastContent": "none",
-               "publishTime": "2021-05-30T10:00:01Z"
-           }
-       }
-   ]
+    "kind": "youtube#searchListResponse",
+    "etag": "A1y2rqDPOFs3CHKSgNzbAN3P1Ng",
+    "nextPageToken": "CBkQAA",
+    "regionCode": "KR",
+    "pageInfo": {
+        "totalResults": 1000000,
+        "resultsPerPage": 25
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "vkvbREc2l4mKOpKqD2TnLWk4Q_M",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "mgbZunbhsX0"
+            },
+            "snippet": {
+                "publishedAt": "2018-08-15T15:45:01Z",
+                "channelId": "UCBVjMGOIkavEAhyqpxJ73Dw",
+                "title": "Charlie Puth - Perfect Pitch",
+                "description": "Charlie Puth explains how sound and music are an essential part of how he experiences the world. Available with YouTube ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mgbZunbhsX0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mgbZunbhsX0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mgbZunbhsX0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Maroon 5",
+                "liveBroadcastContent": "none",
+                "publishTime": "2018-08-15T15:45:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ELwIB-hqp8LUTP3xa0eaSdOUFng",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "sbJYfReMq-o"
+            },
+            "snippet": {
+                "publishedAt": "2018-06-06T16:02:18Z",
+                "channelId": "UCgLQkRAZsFN6fhqxFyx8qhQ",
+                "title": "Impulse - Ep 7 &quot;He Said, She Said&quot;",
+                "description": "After Henry and Clay have a fight, Cleo tries to make amends by inviting the Boones over for dinner. But the evening takes a ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/sbJYfReMq-o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/sbJYfReMq-o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/sbJYfReMq-o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Impulse",
+                "liveBroadcastContent": "none",
+                "publishTime": "2018-06-06T16:02:18Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "QtfwYxfaFf5SlCsgMJT2d_e79HQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Ha8zG3Xk5sw"
+            },
+            "snippet": {
+                "publishedAt": "2022-06-16T18:29:45Z",
+                "channelId": "UC5qhqSIcahBKKMEdLPFqeVA",
+                "title": "The Goodness Of Aloe For A Youthful Glow | Mamaearth Aloe Vera Range",
+                "description": "Summer is here! And with it comes its fair share of plans. You want to go for that vacation, meet your friends, and be out and about ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Ha8zG3Xk5sw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Ha8zG3Xk5sw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Ha8zG3Xk5sw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Mamaearth India",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-06-16T18:29:45Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Zs5Tgm8IKM6KmhLYjppYq8ABx70",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "jas4Cy9hRSk"
+            },
+            "snippet": {
+                "publishedAt": "2020-11-03T04:11:08Z",
+                "channelId": "UCpCjTTLS9aZxdPrZfiRuaOQ",
+                "title": "Let&#39;s find out the types of cars.  #Dump truck #Remicon truck #Monster truck #Police car #Helicopter",
+                "description": "Children can learn the English name of each animal by using toys such as land animals, marine animals, insects, dinosaurs, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jas4Cy9hRSk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jas4Cy9hRSk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jas4Cy9hRSk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Enjoy Toys Shin",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-11-03T04:11:08Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "LiOT0c54DG-tOWhE4jBgRwg97L4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "4u1vHNpbWss"
+            },
+            "snippet": {
+                "publishedAt": "2023-02-01T08:20:40Z",
+                "channelId": "UCx8d47nP6sD5bekgcTDq0KQ",
+                "title": "국정감사장에 등장한 백종원의 발언 내용 #shorts",
+                "description": "출처 : YouTube@SBS 뉴스 #국정감사 #백종원 #백종원발언 #백종원대표 #shorts.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4u1vHNpbWss/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4u1vHNpbWss/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4u1vHNpbWss/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "돈까츠",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-02-01T08:20:40Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "GRmT8BuhhddgVtBnZs6eaXHVqjY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "wfArisOpgMM"
+            },
+            "snippet": {
+                "publishedAt": "2021-09-08T15:09:15Z",
+                "channelId": "UCnpNtqtWMbv-YcZIIsRViVQ",
+                "title": "Es ist so lecker, dass man es jeden Tag essen möchte❗❗ Einfach Rezept für saftige Hähnchenbrust❗",
+                "description": "Es ist so lecker, dass man es jeden Tag essen möchte! Einfach Rezept für saftige Hähnchenbrust. Bereiten Sie für die ganze ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wfArisOpgMM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wfArisOpgMM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wfArisOpgMM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "leckere Küche",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-09-08T15:09:15Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "uIo_JLUB-Kg9dcqnOPgik5SFgYk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Iiukq_ilT0Y"
+            },
+            "snippet": {
+                "publishedAt": "2018-04-11T15:00:01Z",
+                "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+                "title": "Ep4 It‘s on you and I | BTS: Burn the Stage",
+                "description": "Can the show go on? BTS begin to wrap up their South America tour. Day-by-day, we see how the members passionately discuss ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Iiukq_ilT0Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Iiukq_ilT0Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Iiukq_ilT0Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "BANGTANTV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2018-04-11T15:00:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "lA_EG8i3qZsWTQUhMUuxWotaH88",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "8IR_ZS4V3bU"
+            },
+            "snippet": {
+                "publishedAt": "2023-02-01T11:37:40Z",
+                "channelId": "UCq96Njx3uYCixWfUeo7FhHQ",
+                "title": "Good morning 🥰 #smarthome #homecleaning #usa #canada #products #australia #gadgets #home #cleaning",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8IR_ZS4V3bU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8IR_ZS4V3bU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8IR_ZS4V3bU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "EasyHomePlus",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-02-01T11:37:40Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "USjYupx8YCi_CCd5ZS85_qsTsHM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "i0fvQThSR4Y"
+            },
+            "snippet": {
+                "publishedAt": "2023-03-03T18:03:59Z",
+                "channelId": "UCknLrEdhRCp1aegoMqRaCZg",
+                "title": "Russian troops and mercenaries surround Bakhmut | DW News",
+                "description": "Russian troops and mercenaries began closing off the last access routes to the besieged city of Bakhmut in eastern Ukraine on ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/i0fvQThSR4Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/i0fvQThSR4Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/i0fvQThSR4Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "DW News",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-03-03T18:03:59Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "--G7rhMziLlGF0Bt928BASanFcg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "d8p3gUN0Nd4"
+            },
+            "snippet": {
+                "publishedAt": "2023-03-03T12:10:55Z",
+                "channelId": "UClvgyQvIplPQU8N73vPlFUA",
+                "title": "IMPOSSIBLE GOALS from Level 1 to Level 100",
+                "description": "TURN ON NOTIFICATIONS TO NEVER MISS AN UPLOAD!   Twitter: https://twitter.com/ashstudio7 Instagram: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/d8p3gUN0Nd4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/d8p3gUN0Nd4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/d8p3gUN0Nd4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "AshStudio7",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-03-03T12:10:55Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "kDHW1_GC_ZPE1ziXp9lvms3sJi8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "4fjzKbnN5e0"
+            },
+            "snippet": {
+                "publishedAt": "2023-03-04T00:15:00Z",
+                "channelId": "UCcQTRi69dsVYHN3exePtZ1A",
+                "title": "[자막뉴스] 인천공항 면세점도 중국이? 설마설마했던 일이... / KBS 2023.03.04.",
+                "description": "인천공항 출국장 면세점에 쇼핑하는 여행객들이 늘었습니다. [유영민/서울 강동구 : \"필요한 것들 몇 가지 사서 들어가서 찾아서 출국 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4fjzKbnN5e0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4fjzKbnN5e0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4fjzKbnN5e0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KBS News",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-03-04T00:15:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "IsAGlNvi-NnNk5iXOBd44prBN7U",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "8Udw33MSHMc"
+            },
+            "snippet": {
+                "publishedAt": "2019-04-24T12:20:48Z",
+                "channelId": "UCE7K7KI2DVAUxleiclgFukA",
+                "title": "[영문법 뿌시기 1] #OT. 영포자를 위한 문법 공부법 || 기초 영어 공부 / 왕초보 영어 훈련소",
+                "description": "영어문법기초 #로드맵 #8품사 진짜 영포자를 위한 문법 강의, '영문법 뿌시기'에 오신 걸 환영합니다! 준비물 1. 할 수 있다는 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8Udw33MSHMc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8Udw33MSHMc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8Udw33MSHMc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "왕초보영어훈련소 with Lex",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-04-24T12:20:48Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "JgNN_mTIeSeJ5wyQcOohxCq5lTQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "XbOcE2uey8g"
+            },
+            "snippet": {
+                "publishedAt": "2023-03-04T04:34:02Z",
+                "channelId": "UC8-Th83bH_thdKZDJCrn88g",
+                "title": "Trump Plans More DeSantis Attacks and Name-Calling | The Tonight Show Starring Jimmy Fallon",
+                "description": "Jimmy addresses the latest news, like Trump's plans to ramp up attacks on Florida governor Ron DeSantis before taking a ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XbOcE2uey8g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XbOcE2uey8g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XbOcE2uey8g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "The Tonight Show Starring Jimmy Fallon",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-03-04T04:34:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "-VE3ogAEYl0_rTbEvpe4fnIVAvI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "cpsVOsJjrtw"
+            },
+            "snippet": {
+                "publishedAt": "2023-03-04T03:45:03Z",
+                "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
+                "title": "‘That’s going to be a goldmine’: Expert on Jack Smith scrutinizing Trump attorneys",
+                "description": "Donald Trump's attorneys who are connected with the Mar-a-Lago documents scandal are the new focus of special counsel Jack ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cpsVOsJjrtw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cpsVOsJjrtw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cpsVOsJjrtw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MSNBC",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-03-04T03:45:03Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "6e5wEXCzoHBBbZLVMeTAe4Oy3Zk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ABqEB5ge1XQ"
+            },
+            "snippet": {
+                "publishedAt": "2023-03-03T11:57:34Z",
+                "channelId": "UCkinYTS9IHqOEwR1Sze2JTw",
+                "title": "당직 섰는데 1만 원, 애국 페이?…군대 떠나는 군인들 / SBS 8뉴스",
+                "description": "〈앵커〉 오늘(3일) 군이 직업군인들의 처우개선 문제를 논의했습니다. 애국심에만 기대 터무니없이 적은 급여를 주고 있다며 초급 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ABqEB5ge1XQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ABqEB5ge1XQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ABqEB5ge1XQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "SBS 뉴스",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-03-03T11:57:34Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "iauFz5bhmZoYYD_v3JMdoPRJRN8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "02W2-JqYc9Q"
+            },
+            "snippet": {
+                "publishedAt": "2023-03-04T02:08:52Z",
+                "channelId": "UCF4Wxdo3inmxP-Y59wXDsFw",
+                "title": "&quot;사람이 죽었어요..8년이 뭐야! 아무 죄 없는 아기가 죽었어요&quot; [뉴스.zip/MBC뉴스]",
+                "description": "00:00 [음주운전 살인운전] \"우린 그날 모든 것을 잃었습니다\" (2023.02.24/뉴스데스크/MBC) 03:40 \"통째로 짓밟혀\"‥생존자 괴롭히는 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/02W2-JqYc9Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/02W2-JqYc9Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/02W2-JqYc9Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MBCNEWS",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-03-04T02:08:52Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "8XNE_JFwO2pxJumGosNBOpCdM9g",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "e_e3sVMolIk"
+            },
+            "snippet": {
+                "publishedAt": "2023-03-04T01:30:23Z",
+                "channelId": "UCcQTRi69dsVYHN3exePtZ1A",
+                "title": "건설사 이름 보고 믿었는데…&quot; 지역주택조합에 무슨 일? / KBS  2023.02.28.",
+                "description": "주민들이 조합을 만들어 함께 땅을 사고 집을 짓는 '지역주택조합' 한 번쯤 들어보셨을 겁니다. 취지는 좋지만 변수도 많아 실제 입주 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/e_e3sVMolIk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/e_e3sVMolIk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/e_e3sVMolIk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KBS News",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-03-04T01:30:23Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "vWooc5mfriAauuI865tLFojYr2A",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "2Hvj-uz16zE"
+            },
+            "snippet": {
+                "publishedAt": "2023-03-03T01:30:01Z",
+                "channelId": "UCcQTRi69dsVYHN3exePtZ1A",
+                "title": "[자막뉴스] 여고생들 손 녹이려다...개학날 벌어진 대참사 / KBS 2023.03.03.",
+                "description": "새 학기 첫날, 대전의 한 여자고등학교. 6교시 수업이 한창이던 오후 2시 40분쯤, 2학년 교실에서 학생들이 어지럼증과 두통을 호소 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2Hvj-uz16zE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2Hvj-uz16zE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2Hvj-uz16zE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KBS News",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-03-03T01:30:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Zx3STJVSutfSpUQYjDrKfBpGmaM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "XLDdnJC-9S8"
+            },
+            "snippet": {
+                "publishedAt": "2023-03-04T08:15:02Z",
+                "channelId": "UCcQTRi69dsVYHN3exePtZ1A",
+                "title": "[한눈에 이슈] 직격탄 맞은 역대급 경제...돌파구 없는 최악 상황 / KBS 2023.03.04.",
+                "description": "다섯 달 연속 마이너스를 기록하면서 무역 수지 역시 1년 내내 적자입니다. 무엇보다 반도체가, 그리고 중국에서 힘을 못 쓰고 있기 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XLDdnJC-9S8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XLDdnJC-9S8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XLDdnJC-9S8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KBS News",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-03-04T08:15:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "lvZ0twSP0z32bB-zotxsGBBR-48",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "RHQ16ITLTCQ"
+            },
+            "snippet": {
+                "publishedAt": "2023-03-04T00:47:20Z",
+                "channelId": "UCF4Wxdo3inmxP-Y59wXDsFw",
+                "title": "&quot;돈은 야설로 벌고 취미로 폭주를..&quot; &quot;창작의 자유..불법 증거 있나&quot; [뉴스.zip/MBC뉴스]",
+                "description": "00:00 성적대상화 웹소설 장예찬, 이번에는 '불법 자동차 경주' 논란 (2023.03.02/뉴스데스크/MBC) 01:50 유명 연예인들 '성적 대상화' ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/RHQ16ITLTCQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/RHQ16ITLTCQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/RHQ16ITLTCQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MBCNEWS",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-03-04T00:47:20Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "awXvVX-j_OV-a1FmGCcL1xBoN68",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "w_sBSKYBcDk"
+            },
+            "snippet": {
+                "publishedAt": "2023-03-04T01:17:58Z",
+                "channelId": "UCF4Wxdo3inmxP-Y59wXDsFw",
+                "title": "[자막뉴스] &quot;이 돌 아닌가? 아무도 안 사네&quot;..죽어라 훔쳤는데 &#39;망연자실&#39; (MBC뉴스)",
+                "description": "제주 #현무암 #특수절도.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/w_sBSKYBcDk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/w_sBSKYBcDk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/w_sBSKYBcDk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MBCNEWS",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-03-04T01:17:58Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "_N2pREtASqUQhPe_kFFmSFpUr1Y",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "VdXSxM0IMOs"
+            },
+            "snippet": {
+                "publishedAt": "2023-03-04T04:15:00Z",
+                "channelId": "UCcQTRi69dsVYHN3exePtZ1A",
+                "title": "[자막뉴스] 다리 하나 때문에 부글부글...20년 분노한 주민들 결국 / KBS 2023.03.04.",
+                "description": "인천국제공항 개항에 앞서 2000년 개통한 영종대교. 23년이 지났지만, 상부 통행료는 여전히 6600원. [\"요금 6600원이 결제 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/VdXSxM0IMOs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/VdXSxM0IMOs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/VdXSxM0IMOs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KBS News",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-03-04T04:15:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "3tpOIME9Uc7BEezp_9-GtP6p5GE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "0RsrxCQYlZE"
+            },
+            "snippet": {
+                "publishedAt": "2023-03-03T23:46:52Z",
+                "channelId": "UCF4Wxdo3inmxP-Y59wXDsFw",
+                "title": "코바나 &#39;무혐의&#39; 성남FC &#39;뇌물&#39;..검찰 수사 의지도 &#39;극과 극&#39;? [뉴스.zip/MBC뉴스]",
+                "description": "00:00 '코바나 협찬금' 모두 무혐의‥\"김건희 서면조사만 2번\" (2023.03.02/뉴스데스크/MBC) 01:44 \"조민 장학금은 위법\"‥\"'코바나' ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0RsrxCQYlZE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0RsrxCQYlZE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0RsrxCQYlZE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MBCNEWS",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-03-03T23:46:52Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "_6OUIoCb67wSGY-4Sg775AdYNG0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "HteZuE9rHT0"
+            },
+            "snippet": {
+                "publishedAt": "2023-03-03T21:00:05Z",
+                "channelId": "UCYAB7hh1ohA8-iX54EpMdeA",
+                "title": "My Baby Chooses What I Paint?!",
+                "description": "Hey guys! Today I am going to involve MINI ME! You guys have been asking me to involve my daughter in my videos and/or my art ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HteZuE9rHT0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HteZuE9rHT0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HteZuE9rHT0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Moriah Elizabeth",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-03-03T21:00:05Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "JNFbZnivSmEbbiI7pheHKxsgGFM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "uFLZuZ5v4r8"
+            },
+            "snippet": {
+                "publishedAt": "2023-03-04T03:44:03Z",
+                "channelId": "UCdtXPiqI2cLorKaPrfpKc4g",
+                "title": "Tom Sizemore Dead at 61",
+                "description": "Tom Sizemore, known for his role in 'Saving Private Ryan,' has died. The actor was 61 years old. The news comes after Tom ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/uFLZuZ5v4r8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/uFLZuZ5v4r8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/uFLZuZ5v4r8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Entertainment Tonight",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-03-04T03:44:03Z"
+            }
+        }
+    ]
 }
