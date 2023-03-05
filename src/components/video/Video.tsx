@@ -9,6 +9,7 @@ import { ReactNode } from 'react';
 import dayjs from 'dayjs'
 
 const Video:React.FC<Items> = (item:Items) => {
+   const navigate = useNavigate();
    const getVideoDetail = useCallback(async() => {
       try {
          const response = await Axios.get<responseType>(`https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&id=${item.id.videoId}&key=AIzaSyCE8pax84U8_T0MUPA6qjGDt9azc_yQ0JE`)
@@ -39,8 +40,11 @@ const Video:React.FC<Items> = (item:Items) => {
 
 
    return (
-      <div className={style.container}>
-         <img src={thumbnails?.medium.url} alt="img"/>
+      <div className={style.container} onClick={() => {}}>
+         <div className={style.image_box}>
+            <img src={thumbnails?.medium.url} alt="img"/>
+         </div>
+
          <div className={style.box}>
             <h1>{title}</h1>
             <h3>{channelTitle}</h3>
