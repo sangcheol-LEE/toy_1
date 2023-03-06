@@ -5,6 +5,8 @@ import Root from './routes/root/Root';
 import Home from './routes/home/Home';
 import NotFound from './components/NotFound';
 import VideoDetail from './routes/videoDetail/VideoDetail';
+import WatchDetail from './routes/watchDetail/WatchDetail';
+
 const router = createBrowserRouter([
   {
     path : "/",
@@ -12,7 +14,9 @@ const router = createBrowserRouter([
     errorElement: <NotFound/>,
     children: [
       {index: true, element: <Home />},
-      {path: "/video/:videoId", element: <VideoDetail />}
+      {path: "/video/:videoId", element: <VideoDetail />},
+      {path: "/video/:videoId/:chanel", element: <WatchDetail />},
+      {path: "/watch/:watchId" ,element: <WatchDetail />}
     ]
   },
 ]);

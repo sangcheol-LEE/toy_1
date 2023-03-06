@@ -27,20 +27,21 @@
          border: none;
          outline : none;
          flex-basis: 1;
-         border: 1px solid grey;
+         border: 1px solid rgb(229, 231, 235);
          border-radius: 40px 0 0 40px;
       }
       button {
          padding : 10px 15px;
          height: 100%;
          border-radius: 0 10% 10% 0;
-         border: 1px solid grey;
+         border: 1px solid rgb(229, 231, 235);
          border-left: none !important;
          border-radius: 0 40px 40px 0;
          background-color: var(--color-green);
          cursor: pointer;
          flex-basis: 1;
          @include mixin.flexCenter;
+         color :rgb(229, 231, 235)
       }
    }
 }

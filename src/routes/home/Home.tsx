@@ -1,14 +1,12 @@
-import React,{useEffect,useCallback,useMemo} from 'react'
+import React from 'react'
 import style from "./Home.module.scss";
-import Axios,{AxiosResponse} from "axios";
 import { useQuery, useMutation, useQueryClient} from "react-query";
-import { Items, VideoListType } from '../../types/videoData';
+import { Items } from '../../types/videoData';
 import Video from '../../components/video/Video';
 import { getVideoList } from '../../utils/common';
 import { MOCKDATA,SERVER_DATA } from '../../utils/urls';
 
 const Home = () => {
-
    const {isLoading, isError, data:VideoList} = useQuery({ queryKey: ['videos'], queryFn: () => getVideoList(MOCKDATA)})
 
    if(isLoading) return <div>Loading...</div>
