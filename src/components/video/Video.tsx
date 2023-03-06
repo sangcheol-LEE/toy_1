@@ -1,15 +1,20 @@
 import React,{useCallback,useMemo} from 'react'
 import style from "./Video.module.scss";
-import { useNavigate } from 'react-router';
+import { useSelector } from 'react-redux';
+import { useNavigate ,useParams} from 'react-router';
 import { Items } from '../../types/videoData';
 import Axios,{AxiosResponse} from "axios";
 import { useQuery } from 'react-query';
 import { responseType } from '../../types/newVideo';
 import { ReactNode } from 'react';
 import dayjs from 'dayjs'
+import { RootState } from '../../app/store';
+
 
 const Video:React.FC<Items> = (item:Items) => {
    const navigate = useNavigate();
+   const params = useParams();
+
    const getVideoDetail = useCallback(async() => {
       try {
          const response = await Axios.get<responseType>(`https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&id=${item.id.videoId}&key=AIzaSyCE8pax84U8_T0MUPA6qjGDt9azc_yQ0JE`)
@@ -21,13 +26,11 @@ const Video:React.FC<Items> = (item:Items) => {
    },[item]);
 
    const {data:VideoList} = useQuery({ queryKey: ['videoDetail'], queryFn: getVideoDetail })
-
    const newVideoList:ReactNode = useMemo(()=> {
       if(VideoList?.items[0]) {
          return VideoList?.items[0].statistics.viewCount
       }
    },[VideoList]);
-
 
    const {thumbnails,title,channelTitle,publishedAt} = item?.snippet
 
@@ -38,9 +41,13 @@ const Video:React.FC<Items> = (item:Items) => {
       return day === 0 ? "오늘 업로드" : day === 1 ? "하루 전" : `${day}일 전`
    }, [publishedAt])
 
+   const getRoutePage = useCallback(() => {
+      const getPage = params?.videoId ? channelTitle : `watch/${"id"}`;
+      navigate(getPage)
+   },[navigate,params,channelTitle]);
 
    return (
-      <div className={style.container} onClick={() => {}}>
+      <div className={style.container} onClick={getRoutePage}>
          <div className={style.image_box}>
             <img src={thumbnails?.medium.url} alt="img"/>
          </div>

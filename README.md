@@ -1,8 +1,8 @@
 ## 기술 스택
 * Type Script
 * React
-* Redux-toolkit
-* React-query
+* Redux-toolkit - 전역 상태 관리
+* React-query - 비동기데이터 관리
 * poss-css[sass]
 
 ## Tool
