@@ -7,25 +7,28 @@ import {useSelector} from "react-redux";
 import { RootState } from '../../app/store';
 import Video from '../../components/video/Video';
 import { Items } from '../../types/videoData';
+import YouTube from 'react-youtube';
+import { useLocation }from "react-router-dom";
+interface Opts {
+   height: string;
+   width : string;
+   playerVars : {
+      autoplay: number
+   }
+}
+
 const VideoDetail = () => {
-   const state = useSelector((state:RootState) => state.VideoSlice);
-   const Mock = true ? MOCK_QUERY() : SERVER_QUERY(state.search_text)
-   const {isLoading, isError, data:VideoList} = useQuery({ queryKey: ['search'], queryFn: () => getVideoList(Mock)})
-
-   if(isLoading) return <div>isLoading...</div>;
-   if(isError) return <div>{isError}</div>;
-
-   console.log()
-
+   const {state} = useLocation()
+   const opts:Opts = {
+      width: '640',
+      height: '390',
+      playerVars: {
+        autoplay: 1,
+      },
+    };
    return (
-      <div className={style.container}>
-         {
-            VideoList?.items?.map((item:Items, idx:number) => {
-               return (
-                  <Video key={idx} {...item}/>
-               )
-            })
-         }
+      <div>
+         <YouTube videoId={state} opts={opts} />;
       </div>
    )
 }

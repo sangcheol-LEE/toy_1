@@ -1,0 +1,70 @@
+{
+   "kind": "youtube#videoListResponse",
+   "etag": "rE8fEkyxki7aAhmEO2l5s7b45S0",
+   "items": [
+       {
+           "kind": "youtube#video",
+           "etag": "prYaq18tQalLfQZRv_2mEA_2S9I",
+           "id": "mgbZunbhsX0",
+           "snippet": {
+               "publishedAt": "2018-08-15T15:45:01Z",
+               "channelId": "UCBVjMGOIkavEAhyqpxJ73Dw",
+               "title": "Charlie Puth - Perfect Pitch",
+               "description": "Charlie Puth explains how sound and music are an essential part of how he experiences the world.\n\nAvailable with YouTube Premium - https://www.youtube.com/premium/originals. To see if Premium is available in your country, click here: https://goo.gl/A3HtfP",
+               "thumbnails": {
+                   "default": {
+                       "url": "https://i.ytimg.com/vi/mgbZunbhsX0/default.jpg",
+                       "width": 120,
+                       "height": 90
+                   },
+                   "medium": {
+                       "url": "https://i.ytimg.com/vi/mgbZunbhsX0/mqdefault.jpg",
+                       "width": 320,
+                       "height": 180
+                   },
+                   "high": {
+                       "url": "https://i.ytimg.com/vi/mgbZunbhsX0/hqdefault.jpg",
+                       "width": 480,
+                       "height": 360
+                   },
+                   "standard": {
+                       "url": "https://i.ytimg.com/vi/mgbZunbhsX0/sddefault.jpg",
+                       "width": 640,
+                       "height": 480
+                   },
+                   "maxres": {
+                       "url": "https://i.ytimg.com/vi/mgbZunbhsX0/maxresdefault.jpg",
+                       "width": 1280,
+                       "height": 720
+                   }
+               },
+               "channelTitle": "Maroon 5",
+               "tags": [
+                   "Sugar",
+                   "YouTube Premium",
+                   "YouTube Originals",
+                   "Maroon 5",
+                   "A$AP Ferg",
+                   "Fifth Harmony",
+                   "Bad Bunny",
+                   "Charlie Puth",
+                   "Snoop Dogg",
+                   "Kelly Clarkson",
+                   "Blake Shelton"
+               ],
+               "categoryId": "10",
+               "liveBroadcastContent": "none",
+               "defaultLanguage": "en",
+               "localized": {
+                   "title": "Charlie Puth - Perfect Pitch",
+                   "description": "Charlie Puth explains how sound and music are an essential part of how he experiences the world.\n\nAvailable with YouTube Premium - https://www.youtube.com/premium/originals. To see if Premium is available in your country, click here: https://goo.gl/A3HtfP"
+               },
+               "defaultAudioLanguage": "en"
+           }
+       }
+   ],
+   "pageInfo": {
+       "totalResults": 1,
+       "resultsPerPage": 1
+   }
+}
